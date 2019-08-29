@@ -4,3 +4,5 @@ Now we are updating for the visual studio code, it is very important that you fi
 
 Trying ignore
 Trying branch
+
+Trying clashing updates
